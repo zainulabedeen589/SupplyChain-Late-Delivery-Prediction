@@ -12,7 +12,7 @@
 
 ---
 
-<h2><a href="[https://supplychain-prediction.streamlit.app/](https://supplychain-prediction.streamlit.app/)" target="_blank"> Application Link </a></h2>
+<h2><a href="https://supplychain-prediction.streamlit.app/" target="_blank"> Application Link </a></h2>
 
 ---
 
