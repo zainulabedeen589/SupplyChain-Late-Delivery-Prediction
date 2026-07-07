@@ -12,6 +12,10 @@
 
 ---
 
+<h2><a href="[https://supplychain-prediction.streamlit.app/](https://supplychain-prediction.streamlit.app/)" target="_blank"> Application Link </a></h2>
+
+---
+
 # 📌 Project Overview
 
 Late deliveries are one of the biggest challenges in supply chain management. Delayed shipments increase operational costs, reduce customer satisfaction, and negatively impact business performance.
