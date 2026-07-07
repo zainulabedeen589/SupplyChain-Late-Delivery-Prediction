@@ -1,0 +1,31 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+imblearn
+collection
+streamlit
+xgboost
+catboost
+lightgbm
+
+
+
+SupplyChain-Late-Delivery-Prediction
+│
+├── data
+│   └── SupplyChainDataset.csv
+├── notebook.ipynb
+├── app.py
+├── model
+│   |── freq_mappings.pkl
+	└──rf_late_delivery_model.pkl
+├── encoder.pkl
+├── requirements.txt
+├── README.md
+├── SupplyChainDataset.csv
+│
+
+│
+└── screenshots
